@@ -1,0 +1,5 @@
+Generated Poem (OneHotRNN):
+I work hard for everything The young mechanic is closest for me, he knows me well, The woodman that takes his axe and jug with him shall take me with him all day, The farm-boy ploughing in the field feels good at the sound of my voice, In vessels that sail my words sail, I
+
+Generated Poem (EmbeddingLSTM):
+I work hard for everything must not a cup You shall not – You – I – Because Your Face Would put out Jesus’ – That New Grace Glow plain – and foreign On my homesick Eye – Except that You than He Shone closer by – They’d judge Us – How – For You
